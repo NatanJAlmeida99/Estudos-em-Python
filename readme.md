@@ -2,7 +2,7 @@
 
 ---
 
-Este repositório é dedicado aos meus estudos e práticas em Python. Aqui você encontrará uma variedade de projetos, exercícios e implementações que desenvolvo para aprimorar minhas habilidades e explorar diferentes conceitos da linguagem.
+Este repositório é dedicado aos meus estudos e práticas em Python pelo professor Gustavo Guanabara (Curso em Vídeo). Aqui você encontrará uma variedade de projetos, exercícios e implementações que desenvolvo para aprimorar minhas habilidades e explorar diferentes conceitos da linguagem.
 
 ## 🎯 Objetivo
 
